@@ -1,15 +1,8 @@
 # flutter_investment_app
 
-A new Flutter project.
+flutter project example convert investment app ui to flutter dart code
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Inspiration: dribbble](https://dribbble.com/shots/20995418-Dinvest-Investment-App)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
